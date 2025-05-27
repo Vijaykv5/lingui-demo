@@ -7,7 +7,7 @@ import { loadCatalog } from "./i18n"
 
 function App() {
   const [count, setCount] = useState(0)
-  const [currentLang, setCurrentLang] = useState("en")
+  const [currentLang, setCurrentLang] = useState("zh")
 
   useEffect(() => {
     loadCatalog(currentLang)
@@ -35,7 +35,9 @@ function App() {
             </option>
           </select>
         </div>
-        <h1>Simple Demo Project for Implementing i18n for OpenYurt</h1>
+        <h1>
+          <Trans>Simple Demo Project for Implementing i18n for OpenYurt</Trans>
+        </h1>
         <div className="card">
           <button onClick={() => setCount((count) => count + 1)}>
             <Plural value={count} one="# month" other="# months" />
