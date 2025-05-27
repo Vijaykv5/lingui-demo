@@ -17,17 +17,17 @@ msgstr ""
 #~ msgid "{count, plural, one {# message} other {# messages}}"
 #~ msgstr ""
 
-#: src/App.tsx:41
+#: src/App.tsx:43
 msgid "{count, plural, one {# month} other {# months}}"
-msgstr ""
+msgstr "{count, plural, one {# month} other {# months}}"
 
 #: src/App.tsx:27
 #~ msgid "{count, plural, other {count is #}}"
 #~ msgstr ""
 
-#: src/App.tsx:44
+#: src/App.tsx:46
 msgid "Click on the button to increment the months"
-msgstr ""
+msgstr "Click on the button to increment the months"
 
 #: src/App.tsx:53
 #~ msgid "Click on the Vite and React logos to learn more"
@@ -37,6 +37,10 @@ msgstr ""
 #~ msgid "Created for a sample implementation"
 #~ msgstr ""
 
-#: src/App.tsx:50
+#: src/App.tsx:52
 msgid "Created for a sample implementation "
-msgstr ""
+msgstr "Created for a sample implementation"
+
+#: src/App.tsx:39
+msgid "Simple Demo Project for Implementing i18n for OpenYurt"
+msgstr "Simple Demo Project for Implementing i18n for OpenYurt"

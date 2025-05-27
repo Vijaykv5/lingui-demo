@@ -13,18 +13,18 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
-#: src/App.tsx:41
+#: src/App.tsx:43
 msgid "{count, plural, one {# month} other {# months}}"
 msgstr "{count, plural, one {# 个月} other {# 个月}}"
 
-#: src/App.tsx:44
+#: src/App.tsx:46
 msgid "Click on the button to increment the months"
 msgstr "点击按钮增加月份"
 
-#: src/App.tsx:50
+#: src/App.tsx:52
 msgid "Created for a sample implementation "
 msgstr "为示例实现而创建"
 
-#: src/App.tsx:37
+#: src/App.tsx:39
 msgid "Simple Demo Project for Implementing i18n for OpenYurt"
 msgstr "OpenYurt i18n 实现的简单演示项目"
