@@ -1,1 +1,1 @@
-/*eslint-disable*/module.exports={messages:JSON.parse("{\"XmK1ih\":[[\"count\",\"plural\",{\"one\":[\"#\",\" 个月\"],\"other\":[\"#\",\" 个月\"]}]],\"l4YF5V\":[\"点击按钮增加月份\"],\"xEHNvN\":[\"为示例实现而创建\"]}")};
+/*eslint-disable*/module.exports={messages:JSON.parse("{\"XmK1ih\":[[\"count\",\"plural\",{\"one\":[\"#\",\" 个月\"],\"other\":[\"#\",\" 个月\"]}]],\"l4YF5V\":[\"点击按钮增加月份\"],\"xEHNvN\":[\"为示例实现而创建\"],\"mk/l+H\":[\"OpenYurt i18n 实现的简单演示项目\"]}")};
